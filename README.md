@@ -1,4 +1,4 @@
-# OOPfinal1
+
 # Exercise 1
 
 // See https://aka.ms/new-console-template for more information
@@ -45,7 +45,7 @@ class Program
     }
 }
 ///////////////////////////////////////////////////////////////////////////
-# OOPfinal2
+
 # Exercise 2
 using System;
 using System.IO;
@@ -79,7 +79,7 @@ class Program
 }
 
 ///////////////////////////////////////////////////////////////////////////
-# oopfinal3
+
 # Exercise 3
 using System;
 using System.Collections.Generic;
